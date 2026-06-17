@@ -1,0 +1,11 @@
+{
+  "fonte": "Relatórios fictícios do Programa Alfa. Trechos-folha de dois temas: evolução do repasse por ano e regras de elegibilidade/adesão. Nenhuma relação com dados reais.",
+  "leaves": [
+    {"id": "l_2020", "tema": "repasse", "texto": "Em 2020, o repasse do Programa Alfa foi de R$ 60,00 por aluno."},
+    {"id": "l_2022", "tema": "repasse", "texto": "Em 2022, o repasse do Programa Alfa foi de R$ 80,00 por aluno."},
+    {"id": "l_2024", "tema": "repasse", "texto": "Em 2024, o repasse do Programa Alfa foi de R$ 100,00 por aluno."},
+    {"id": "l_elegib", "tema": "adesao", "texto": "Sao elegiveis ao Programa Alfa as escolas com no minimo cinquenta alunos matriculados."},
+    {"id": "l_adesao", "tema": "adesao", "texto": "A adesao ao Programa Alfa e feita pelo gestor municipal ate o fim de fevereiro."},
+    {"id": "l_contas", "tema": "adesao", "texto": "A prestacao de contas do Programa Alfa e feita pelo sistema oficial em ate trinta dias."}
+  ]
+}
